@@ -14,6 +14,7 @@
 ![React Native](https://img.shields.io/badge/-ReactNaitve-%23282C34?style=flat-square&logo=react)
 ![iOS](https://img.shields.io/badge/-iOS-%232c3e50?style=flat-square&logo=iOS)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
+![Flutter](https://img.shields.io/badge/-Flutter-%23282C34?style=flat-square&logo=flutter)
 ![Andoird](https://img.shields.io/badge/-android-%23E44D27?style=flat-square&logo=android&logoColor=ffffff)
 
 
