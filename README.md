@@ -1,4 +1,5 @@
 # 𝗛𝗲𝗹𝗹𝗼! 𝗜'𝗺 Qiankun Li
+![Work Hard & Be Nice!](https://github.com/Liqiankun/liqiankun/blob/master/work_hard_%26_be_nice.png)<br>
 [![](https://img.shields.io/badge/-@liqiankun-%23181717?style=flat-square&logo=github)](https://github.com/liqiakun)
 [![](https://img.shields.io/badge/-@qiankunli-%23000000?style=flat-square&logo=instagram)](https://www.instagram.com/qiankunli)
 
