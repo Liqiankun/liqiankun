@@ -2,13 +2,15 @@
 [![](https://img.shields.io/badge/-@liqiankun-%23181717?style=flat-square&logo=github)](https://github.com/liqiakun)
 [![](https://img.shields.io/badge/-@qiankunli-%23000000?style=flat-square&logo=instagram)](https://www.instagram.com/qiankunli)
 
+
 𝑰 ❤️ 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!
 
 :computer: 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓, 𝒄𝒖𝒓𝒓𝒆𝒏𝒕𝒍𝒚 𝒃𝒂𝒔𝒆𝒅 𝒊𝒏 Shanghai.
 
 :vulcan_salute: 𝑰 𝒑𝒖𝒕 𝒎𝒐𝒔𝒕𝒍𝒚 𝒐𝒇 𝒎𝒚 𝒇𝒐𝒄𝒖𝒔 on mobile 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕 𝒘𝒊𝒕𝒉 React Native, Objective-C.
 
-:writing_hand: 𝑰 𝒍𝒐𝒗𝒆 𝒔𝒉𝒂𝒓𝒊𝒏𝒈 𝒇𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝒕𝒆𝒄𝒉 𝒔𝒕𝒂𝒄𝒌.
+:writing_hand: 𝑰 𝒍𝒐𝒗𝒆 𝒔𝒉𝒂𝒓𝒊𝒏𝒈 𝒇𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝒕𝒆𝒄𝒉 𝒔𝒕𝒂𝒄𝒌.<br><br>
+![Work Hard & Be Nice!](https://github.com/Liqiankun/liqiankun/blob/master/work_hard_%26_be_nice.png)<br>
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 ![React Native](https://img.shields.io/badge/-ReactNaitve-%23282C34?style=flat-square&logo=react)
@@ -30,4 +32,3 @@
 ## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
 ![visitors](https://xiaoluoboding-visitor-badge.glitch.me/badge?page_id=liqiankun.liqiankun)
 
-![Work Hard & Be Nice!](https://github.com/Liqiankun/liqiankun/blob/master/work_hard_%26_be_nice.png)<br>
