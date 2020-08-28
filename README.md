@@ -1,5 +1,5 @@
 # 𝗛𝗲𝗹𝗹𝗼! 𝗜'𝗺 Qiankun Li
-[![](https://img.shields.io/badge/-@liqiankun-%23181717?style=flat-square&logo=github)](https://github.com/liqiakun)
+[![](https://img.shields.io/badge/-@liqiankun-%23181717?style=flat-square&logo=github)](https://github.com/liqiankun)
 [![](https://img.shields.io/badge/-@qiankunli-%23000000?style=flat-square&logo=instagram)](https://www.instagram.com/qiankunli)
 
 
