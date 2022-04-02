@@ -30,4 +30,4 @@
 ![liqiankun's github stats](https://github-readme-stats.vercel.app/api?username=liqiankun&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 ## Buy me a coffee
-[![](https://user-images.githubusercontent.com/11532418/161356223-2a61c7c8-97dd-4b68-875a-393fcf415c3f.jpg)](https://www.buymeacoffee.com/liqiankun)
+[![](https://user-images.githubusercontent.com/11532418/161356313-37ec88ed-856c-410d-a887-37a6ada8bf94.jpg)](https://www.buymeacoffee.com/liqiankun)
